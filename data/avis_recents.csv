@@ -1,0 +1,181 @@
+avis_id,hotel,source,date_avis,texte,motif
+5001,Resort Hotel,Google,2017-05-14,En déplacement pour le travail. Le quartier est désert passé 20 h. Bien trop excentré pour visiter la ville à pied. Le portier nous a claqué la porte au nez.,emplacement
+5002,City Hotel,Questionnaire,2017-03-15,Le menu enfant se limitait à des frites surgelées. Le café ressemblait à de l'eau chaude. On percevait chaque conversation de la pièce d'à côté.,restauration
+5003,City Hotel,Booking,2017-04-15,On ne s'attendait pas à ça. Les sirènes du boulevard toute la nuit. Le vacarme des fêtards en bas n'a cessé qu'à l'aube. Un tapis crasseux à l'entrée de la chambre. Pas pour nous.,bruit
+5004,City Hotel,TripAdvisor,2017-04-02,Payer ce montant pour une telle prestation est indécent. Facturé une fortune pour un séjour médiocre. Le prélèvement a été fait en double sur notre compte. Peut mieux faire.,prix
+5005,Resort Hotel,Booking,2017-04-22,Notre commande au bar-restaurant a été oubliée deux fois. Le menu enfant se limitait à des frites surgelées. Pas pour nous.,restauration
+5006,City Hotel,Booking,2017-05-01,On ne s'attendait pas à ça. Tarif exorbitant comparé aux établissements voisins. La note finale était salée pour ce qu'on a eu. Le café ressemblait à de l'eau chaude. À revoir sérieusement.,prix
+5007,Resort Hotel,Questionnaire,2017-04-24,La note finale était salée pour ce qu'on a eu.,prix
+5008,City Hotel,Questionnaire,2017-03-26,La bouilloire était hors d'usage. Le radiateur restait glacé malgré nos réglages. Peut mieux faire.,equipements
+5009,Resort Hotel,Google,2017-04-22,Pas convaincus. Bien trop excentré pour visiter la ville à pied. Les rues autour ne sont pas éclairées la nuit. Peut mieux faire.,emplacement
+5010,City Hotel,Google,2017-05-15,"Séjour décevant. Le lit d'appoint était une simple planche avec un coussin. Aucune lumière naturelle, on se serait cru dans une cave. Il y avait des traces douteuses sur la housse de couette.",chambre
+5011,City Hotel,TripAdvisor,2017-04-06,Réponses expéditives et regard hautain au comptoir.,accueil
+5012,City Hotel,Questionnaire,2017-04-03,On ne s'attendait pas à ça. Les rues autour ne sont pas éclairées la nuit. Bien trop excentré pour visiter la ville à pied. Peut mieux faire.,emplacement
+5013,City Hotel,TripAdvisor,2017-04-30,"Pas un bonjour, pas un sourire en trois jours.",accueil
+5014,City Hotel,TripAdvisor,2017-05-04,Ton méprisant quand on a posé une simple question.,accueil
+5015,Resort Hotel,Google,2017-04-01,Une pièce exiguë où l'on se cognait partout. Le sommier s'affaissait au milieu.,chambre
+5016,City Hotel,TripAdvisor,2017-04-04,Perdu en pleine zone industrielle. Coincé entre une autoroute et un centre commercial.,emplacement
+5017,Resort Hotel,Booking,2017-04-03,On ne s'attendait pas à ça. La bouilloire était hors d'usage. Connexion internet inexistante dans tout l'établissement. Un marteau-piqueur dans la cour dès le lever du jour.,equipements
+5018,City Hotel,TripAdvisor,2017-04-19,"Retour mitigé, plutôt négatif. Connexion internet inexistante dans tout l'établissement. Le robinet de la baignoire ne délivrait qu'un filet d'eau froide. La note finale était salée pour ce qu'on a eu.",equipements
+5019,City Hotel,Booking,2017-04-25,Payer ce montant pour une telle prestation est indécent. Des suppléments à chaque coin de couloir. Peut mieux faire.,prix
+5020,City Hotel,Booking,2017-04-27,Les extras sont facturés à prix d'or.,prix
+5021,City Hotel,Booking,2017-03-28,"Pas convaincus. Ce n'est pas donné, et ça ne les vaut pas. Tarif exorbitant comparé aux établissements voisins. Le verre à dents portait encore des marques de rouge à lèvres.",prix
+5022,Resort Hotel,TripAdvisor,2017-03-06,Ils avaient enregistré une nuit au lieu de trois. La chambre payée en avance avait été attribuée à quelqu'un d'autre. Le portier nous a claqué la porte au nez.,reservation
+5023,City Hotel,Questionnaire,2017-04-18,La chambre payée en avance avait été attribuée à quelqu'un d'autre. Le remboursement de l'acompte se fait toujours attendre. Décevant.,reservation
+5024,City Hotel,TripAdvisor,2017-04-25,"Réponses expéditives et regard hautain au comptoir. Le gérant a haussé les épaules face à notre plainte. Décoration datée, papier peint qui se décolle.",accueil
+5025,City Hotel,TripAdvisor,2017-04-03,On ne s'attendait pas à ça. Notre commande au bar-restaurant a été oubliée deux fois. Les viennoiseries étaient rassises.,restauration
+5026,Resort Hotel,Google,2017-03-02,La confirmation reçue ne correspondait pas à ce qu'on avait réservé. Le tarif confirmé par mail n'a pas été appliqué. Le menu enfant se limitait à des frites surgelées. À revoir sérieusement.,reservation
+5027,City Hotel,Google,2017-05-19,On ne s'attendait pas à ça. Le verre à dents portait encore des marques de rouge à lèvres. Une odeur de moisi persistante dès qu'on entrait. À revoir sérieusement.,proprete
+5028,Resort Hotel,Questionnaire,2017-04-28,Escapade ratée. Payer ce montant pour une telle prestation est indécent.,prix
+5029,City Hotel,Google,2017-03-05,"En déplacement pour le travail. Le sommier s'affaissait au milieu. Les volets ne fermaient pas, lumière du lampadaire toute la nuit.",chambre
+5030,City Hotel,TripAdvisor,2017-03-17,Trois nuits en avril. La confirmation reçue ne correspondait pas à ce qu'on avait réservé. Pas pour nous.,reservation
+5031,City Hotel,Google,2017-05-21,Le volet roulant électrique est resté bloqué. Connexion internet inexistante dans tout l'établissement. Il faut une demi-heure de marche pour rejoindre le front de mer.,equipements
+5032,Resort Hotel,Questionnaire,2017-04-08,Ils avaient enregistré une nuit au lieu de trois. Le prélèvement a été fait en double sur notre compte.,reservation
+5033,City Hotel,Booking,2017-04-13,Trois nuits en avril. Tarif exorbitant comparé aux établissements voisins. Facturé une fortune pour un séjour médiocre.,prix
+5034,Resort Hotel,Booking,2017-03-17,En déplacement pour le travail. On percevait chaque conversation de la pièce d'à côté. Le vacarme des fêtards en bas n'a cessé qu'à l'aube. Le robinet de la baignoire ne délivrait qu'un filet d'eau froide. Décevant.,bruit
+5035,Resort Hotel,Questionnaire,2017-03-18,Pas convaincus. On a dû désinfecter nous-mêmes le lavabo avant de l'utiliser. La baignoire avait un dépôt noirâtre impossible à ignorer.,proprete
+5036,City Hotel,Google,2017-04-18,On ne s'attendait pas à ça. Les viennoiseries étaient rassises. On ira ailleurs la prochaine fois.,restauration
+5037,City Hotel,TripAdvisor,2017-05-11,Escapade ratée. Un marteau-piqueur dans la cour dès le lever du jour. Le DJ de la terrasse a joué jusqu'à 3 h. Décevant.,bruit
+5038,City Hotel,TripAdvisor,2017-03-25,Les sirènes du boulevard toute la nuit. Le ronflement du voisin traversait la cloison.,bruit
+5039,City Hotel,Google,2017-05-11,"Retour mitigé, plutôt négatif. Le quartier est désert passé 20 h. À revoir sérieusement.",emplacement
+5040,City Hotel,Google,2017-04-24,Escapade ratée. Chaque passage de train faisait vibrer les vitres. Le vacarme des fêtards en bas n'a cessé qu'à l'aube. Il faut une demi-heure de marche pour rejoindre le front de mer. Décevant.,bruit
+5041,City Hotel,Questionnaire,2017-04-08,Escapade ratée. La confirmation reçue ne correspondait pas à ce qu'on avait réservé. Ils avaient enregistré une nuit au lieu de trois. Il faut une demi-heure de marche pour rejoindre le front de mer. Pas pour nous.,reservation
+5042,City Hotel,Questionnaire,2017-03-04,Connexion internet inexistante dans tout l'établissement. La bouilloire était hors d'usage. Payer ce montant pour une telle prestation est indécent.,equipements
+5043,Resort Hotel,Questionnaire,2017-03-24,"En déplacement pour le travail. Décoration datée, papier peint qui se décolle. La literie était bosselée et trop molle.",chambre
+5044,City Hotel,Google,2017-03-04,On ne s'attendait pas à ça. La baignoire avait un dépôt noirâtre impossible à ignorer.,proprete
+5045,City Hotel,Booking,2017-04-26,"Le monte-charge servait d'ascenseur, l'autre étant bloqué. Le robinet de la baignoire ne délivrait qu'un filet d'eau froide. Le prélèvement a été fait en double sur notre compte.",equipements
+5046,Resort Hotel,Google,2017-04-23,Réponses expéditives et regard hautain au comptoir. Le portier nous a claqué la porte au nez.,accueil
+5047,City Hotel,Google,2017-03-22,"Pas un bonjour, pas un sourire en trois jours. Réponses expéditives et regard hautain au comptoir.",accueil
+5048,City Hotel,Google,2017-03-27,Ton méprisant quand on a posé une simple question. Aucune courtoisie de la part de l'équipe.,accueil
+5049,Resort Hotel,Booking,2017-05-29,Trois nuits en avril. Les viennoiseries étaient rassises. Les plateaux n'étaient jamais regarnis le matin. On nous a fait comprendre qu'on dérangeait. À revoir sérieusement.,restauration
+5050,Resort Hotel,Google,2017-04-21,On ne s'attendait pas à ça. Les viennoiseries étaient rassises. Le menu enfant se limitait à des frites surgelées.,restauration
+5051,Resort Hotel,Booking,2017-03-06,Séjour décevant. La bouilloire était hors d'usage. Le radiateur restait glacé malgré nos réglages. Un marteau-piqueur dans la cour dès le lever du jour.,equipements
+5052,City Hotel,Google,2017-03-14,Facturé une fortune pour un séjour médiocre.,prix
+5053,Resort Hotel,TripAdvisor,2017-04-25,Séjour décevant. Le DJ de la terrasse a joué jusqu'à 3 h. Les sirènes du boulevard toute la nuit. La note finale était salée pour ce qu'on a eu. On ira ailleurs la prochaine fois.,bruit
+5054,Resort Hotel,Google,2017-03-01,Un seul fauteuil bancal pour quatre personnes. Le sommier s'affaissait au milieu. La baignoire avait un dépôt noirâtre impossible à ignorer. On ira ailleurs la prochaine fois.,chambre
+5055,City Hotel,Questionnaire,2017-04-13,Pas convaincus. Notre demande de chambres communicantes a été ignorée. Le prélèvement a été fait en double sur notre compte.,reservation
+5056,City Hotel,Questionnaire,2017-05-19,"On ne s'attendait pas à ça. Une pièce exiguë où l'on se cognait partout. Aucune lumière naturelle, on se serait cru dans une cave. Aucune courtoisie de la part de l'équipe.",chambre
+5057,City Hotel,Questionnaire,2017-05-26,"Retour mitigé, plutôt négatif. Le remboursement de l'acompte se fait toujours attendre. Le tarif confirmé par mail n'a pas été appliqué. Pas pour nous.",reservation
+5058,City Hotel,Questionnaire,2017-04-04,Il y avait des traces douteuses sur la housse de couette. Une odeur de moisi persistante dès qu'on entrait.,proprete
+5059,Resort Hotel,TripAdvisor,2017-05-29,Payer ce montant pour une telle prestation est indécent. Facturé une fortune pour un séjour médiocre.,prix
+5060,City Hotel,Booking,2017-03-16,En déplacement pour le travail. On a dû désinfecter nous-mêmes le lavabo avant de l'utiliser. Des insectes morts sur le rebord de la fenêtre.,proprete
+5061,Resort Hotel,TripAdvisor,2017-03-25,Séjour décevant. La baignoire avait un dépôt noirâtre impossible à ignorer. Il y avait des traces douteuses sur la housse de couette.,proprete
+5062,City Hotel,Booking,2017-04-03,"Retour mitigé, plutôt négatif. Perdu en pleine zone industrielle.",emplacement
+5063,City Hotel,Google,2017-05-09,Escapade ratée. Réponses expéditives et regard hautain au comptoir.,accueil
+5064,City Hotel,Google,2017-03-10,En déplacement pour le travail. Le café ressemblait à de l'eau chaude.,restauration
+5065,City Hotel,TripAdvisor,2017-03-21,Pas convaincus. On a dû désinfecter nous-mêmes le lavabo avant de l'utiliser.,proprete
+5066,Resort Hotel,Google,2017-05-04,"Les volets ne fermaient pas, lumière du lampadaire toute la nuit. Aucune lumière naturelle, on se serait cru dans une cave.",chambre
+5067,Resort Hotel,TripAdvisor,2017-05-30,"Retour mitigé, plutôt négatif. Bien trop excentré pour visiter la ville à pied. La gare la plus proche est à 4 km.",emplacement
+5068,City Hotel,Booking,2017-03-08,Le ronflement du voisin traversait la cloison. Chaque passage de train faisait vibrer les vitres. On ira ailleurs la prochaine fois.,bruit
+5069,Resort Hotel,Booking,2017-03-23,Escapade ratée. Un marteau-piqueur dans la cour dès le lever du jour. Le ronflement du voisin traversait la cloison.,bruit
+5070,Resort Hotel,TripAdvisor,2017-05-29,"Séjour décevant. Des insectes morts sur le rebord de la fenêtre. Un tapis crasseux à l'entrée de la chambre. Le monte-charge servait d'ascenseur, l'autre étant bloqué.",proprete
+5071,City Hotel,Questionnaire,2017-03-16,"Escapade ratée. La literie était bosselée et trop molle. Les volets ne fermaient pas, lumière du lampadaire toute la nuit. Pas pour nous.",chambre
+5072,City Hotel,Google,2017-03-04,Séjour décevant. Le quartier est désert passé 20 h. Les rues autour ne sont pas éclairées la nuit. On nous a fait comprendre qu'on dérangeait. Décevant.,emplacement
+5073,City Hotel,Booking,2017-03-02,Le vacarme des fêtards en bas n'a cessé qu'à l'aube. Décevant.,bruit
+5074,City Hotel,Google,2017-05-17,Escapade ratée. La baignoire avait un dépôt noirâtre impossible à ignorer. Des insectes morts sur le rebord de la fenêtre.,proprete
+5075,Resort Hotel,Google,2017-05-18,Pas convaincus. Le tarif confirmé par mail n'a pas été appliqué. Ils avaient enregistré une nuit au lieu de trois. Coincé entre une autoroute et un centre commercial.,reservation
+5076,Resort Hotel,Google,2017-03-01,"Retour mitigé, plutôt négatif. Réponses expéditives et regard hautain au comptoir. Ton méprisant quand on a posé une simple question.",accueil
+5077,Resort Hotel,Booking,2017-04-30,Trois nuits en avril. Le radiateur restait glacé malgré nos réglages.,equipements
+5078,Resort Hotel,TripAdvisor,2017-03-21,"Retour mitigé, plutôt négatif. Le climatiseur vrombissait sans arrêt. Chaque passage de train faisait vibrer les vitres. La literie était bosselée et trop molle.",bruit
+5079,City Hotel,Booking,2017-04-01,"Retour mitigé, plutôt négatif. Le volet roulant électrique est resté bloqué. Le radiateur restait glacé malgré nos réglages. Aucune courtoisie de la part de l'équipe. Pas pour nous.",equipements
+5080,City Hotel,Booking,2017-03-22,Le climatiseur vrombissait sans arrêt. On percevait chaque conversation de la pièce d'à côté.,bruit
+5081,City Hotel,Booking,2017-04-04,Un marteau-piqueur dans la cour dès le lever du jour. Le DJ de la terrasse a joué jusqu'à 3 h. Un seul fauteuil bancal pour quatre personnes. Pas pour nous.,bruit
+5082,City Hotel,Questionnaire,2017-05-18,Escapade ratée. On s'est sentis arnaqués au moment de payer. Facturé une fortune pour un séjour médiocre. Le remboursement de l'acompte se fait toujours attendre.,prix
+5083,City Hotel,TripAdvisor,2017-03-18,Le radiateur restait glacé malgré nos réglages. Le hammam était inaccessible pendant tout notre séjour. On nous a fait comprendre qu'on dérangeait.,equipements
+5084,City Hotel,Booking,2017-05-01,"On ne s'attendait pas à ça. Les volets ne fermaient pas, lumière du lampadaire toute la nuit. Le sommier s'affaissait au milieu.",chambre
+5085,City Hotel,TripAdvisor,2017-04-01,La confirmation reçue ne correspondait pas à ce qu'on avait réservé. Notre demande de chambres communicantes a été ignorée. Décevant.,reservation
+5086,City Hotel,Google,2017-03-07,Chaque passage de train faisait vibrer les vitres. Le vacarme des fêtards en bas n'a cessé qu'à l'aube.,bruit
+5087,City Hotel,Google,2017-05-05,Les yaourts étaient périmés. Le menu enfant se limitait à des frites surgelées. À revoir sérieusement.,restauration
+5088,Resort Hotel,TripAdvisor,2017-04-11,Trois nuits en avril. Le gérant a haussé les épaules face à notre plainte.,accueil
+5089,City Hotel,Google,2017-04-10,Le sommier s'affaissait au milieu. La literie était bosselée et trop molle. Notre demande de chambres communicantes a été ignorée. Peut mieux faire.,chambre
+5090,Resort Hotel,Google,2017-04-17,En déplacement pour le travail. Bien trop excentré pour visiter la ville à pied. La gare la plus proche est à 4 km.,emplacement
+5091,Resort Hotel,Booking,2017-05-19,"En déplacement pour le travail. Ce n'est pas donné, et ça ne les vaut pas. Payer ce montant pour une telle prestation est indécent. La confirmation reçue ne correspondait pas à ce qu'on avait réservé. On ira ailleurs la prochaine fois.",prix
+5092,City Hotel,Google,2017-04-12,Trois nuits en avril. Les viennoiseries étaient rassises. Le menu enfant se limitait à des frites surgelées. Peut mieux faire.,restauration
+5093,City Hotel,Google,2017-05-05,Il y avait des traces douteuses sur la housse de couette. Une odeur de moisi persistante dès qu'on entrait. Le DJ de la terrasse a joué jusqu'à 3 h.,proprete
+5094,City Hotel,TripAdvisor,2017-03-23,"Décoration datée, papier peint qui se décolle. Pas pour nous.",chambre
+5095,City Hotel,Questionnaire,2017-04-30,La bouilloire était hors d'usage. Connexion internet inexistante dans tout l'établissement. Pas pour nous.,equipements
+5096,Resort Hotel,TripAdvisor,2017-03-12,Escapade ratée. Le gérant a haussé les épaules face à notre plainte. Le portier nous a claqué la porte au nez. Pas pour nous.,accueil
+5097,City Hotel,Booking,2017-05-02,Le saumon du dîner avait un goût douteux. La demi-pension proposait des assiettes tristes et réchauffées.,restauration
+5098,Resort Hotel,Questionnaire,2017-05-22,Réponses expéditives et regard hautain au comptoir. Ton méprisant quand on a posé une simple question. On ira ailleurs la prochaine fois.,accueil
+5099,Resort Hotel,Google,2017-04-27,"Trois nuits en avril. Le sommier s'affaissait au milieu. Le lit d'appoint était une simple planche avec un coussin. Le monte-charge servait d'ascenseur, l'autre étant bloqué. Peut mieux faire.",chambre
+5100,City Hotel,Google,2017-04-08,En déplacement pour le travail. Le menu enfant se limitait à des frites surgelées. Le saumon du dîner avait un goût douteux. Coincé entre une autoroute et un centre commercial.,restauration
+5101,City Hotel,TripAdvisor,2017-05-03,Pas convaincus. Le sommier s'affaissait au milieu. Une pièce exiguë où l'on se cognait partout. Peut mieux faire.,chambre
+5102,City Hotel,Google,2017-04-20,"Retour mitigé, plutôt négatif. Réponses expéditives et regard hautain au comptoir. Pas pour nous.",accueil
+5103,Resort Hotel,Questionnaire,2017-03-06,"Retour mitigé, plutôt négatif. La bouilloire était hors d'usage. Le volet roulant électrique est resté bloqué.",equipements
+5104,City Hotel,Google,2017-03-15,Notre demande de chambres communicantes a été ignorée. Le remboursement de l'acompte se fait toujours attendre. Le radiateur restait glacé malgré nos réglages.,reservation
+5105,City Hotel,Booking,2017-05-08,Trois nuits en avril. Le remboursement de l'acompte se fait toujours attendre. Ils avaient enregistré une nuit au lieu de trois.,reservation
+5106,City Hotel,Booking,2017-04-04,"Ton méprisant quand on a posé une simple question. Pas un bonjour, pas un sourire en trois jours. À revoir sérieusement.",accueil
+5107,Resort Hotel,Questionnaire,2017-05-18,Une pièce exiguë où l'on se cognait partout. On ira ailleurs la prochaine fois.,chambre
+5108,Resort Hotel,Questionnaire,2017-05-24,"Retour mitigé, plutôt négatif. Une odeur de moisi persistante dès qu'on entrait. Pas pour nous.",proprete
+5109,City Hotel,Google,2017-04-20,"Retour mitigé, plutôt négatif. Des suppléments à chaque coin de couloir.",prix
+5110,City Hotel,Questionnaire,2017-04-15,La gare la plus proche est à 4 km.,emplacement
+5111,City Hotel,Google,2017-04-20,Trois nuits en avril. La gare la plus proche est à 4 km. Perdu en pleine zone industrielle. À revoir sérieusement.,emplacement
+5112,Resort Hotel,Booking,2017-04-07,Séjour décevant. La baignoire avait un dépôt noirâtre impossible à ignorer. Le verre à dents portait encore des marques de rouge à lèvres. On ira ailleurs la prochaine fois.,proprete
+5113,City Hotel,TripAdvisor,2017-03-05,Le quartier est désert passé 20 h. Perdu en pleine zone industrielle.,emplacement
+5114,Resort Hotel,Google,2017-04-19,Les viennoiseries étaient rassises. Notre commande au bar-restaurant a été oubliée deux fois.,restauration
+5115,Resort Hotel,Booking,2017-04-12,Trois nuits en avril. Les yaourts étaient périmés. Les plateaux n'étaient jamais regarnis le matin. À revoir sérieusement.,restauration
+5116,City Hotel,TripAdvisor,2017-04-12,"Pas un bonjour, pas un sourire en trois jours. On nous a fait comprendre qu'on dérangeait.",accueil
+5117,City Hotel,Questionnaire,2017-05-27,Le sommier s'affaissait au milieu. Une pièce exiguë où l'on se cognait partout. Ils avaient enregistré une nuit au lieu de trois. Peut mieux faire.,chambre
+5118,City Hotel,Questionnaire,2017-05-02,"Le hammam était inaccessible pendant tout notre séjour. Le radiateur restait glacé malgré nos réglages. Arrivés à 15 h, la chambre n'était prête qu'à 18 h. Décevant.",equipements
+5119,City Hotel,TripAdvisor,2017-04-25,Payer ce montant pour une telle prestation est indécent. Des suppléments à chaque coin de couloir.,prix
+5120,City Hotel,Google,2017-03-20,Le vacarme des fêtards en bas n'a cessé qu'à l'aube. Le ronflement du voisin traversait la cloison.,bruit
+5121,City Hotel,TripAdvisor,2017-05-15,La demi-pension proposait des assiettes tristes et réchauffées.,restauration
+5122,Resort Hotel,Questionnaire,2017-03-19,L'homme au comptoir nous a ignorés pendant qu'il discutait avec un collègue. Le portier nous a claqué la porte au nez.,accueil
+5123,Resort Hotel,Questionnaire,2017-04-13,Des suppléments à chaque coin de couloir. Tarif exorbitant comparé aux établissements voisins. À revoir sérieusement.,prix
+5124,City Hotel,Questionnaire,2017-04-16,On ne s'attendait pas à ça. La baignoire avait un dépôt noirâtre impossible à ignorer. On a dû désinfecter nous-mêmes le lavabo avant de l'utiliser. Peut mieux faire.,proprete
+5125,Resort Hotel,Booking,2017-03-02,"Le robinet de la baignoire ne délivrait qu'un filet d'eau froide. Le monte-charge servait d'ascenseur, l'autre étant bloqué. Pas pour nous.",equipements
+5126,City Hotel,Booking,2017-05-28,"La chambre payée en avance avait été attribuée à quelqu'un d'autre. Arrivés à 15 h, la chambre n'était prête qu'à 18 h.",reservation
+5127,City Hotel,Questionnaire,2017-03-28,La gare la plus proche est à 4 km. Coincé entre une autoroute et un centre commercial. Chaque passage de train faisait vibrer les vitres. On ira ailleurs la prochaine fois.,emplacement
+5128,Resort Hotel,Booking,2017-03-19,Séjour décevant. Le DJ de la terrasse a joué jusqu'à 3 h. On percevait chaque conversation de la pièce d'à côté.,bruit
+5129,City Hotel,TripAdvisor,2017-05-13,On a dû désinfecter nous-mêmes le lavabo avant de l'utiliser. Le carrelage de la douche était gluant. Le menu enfant se limitait à des frites surgelées. Pas pour nous.,proprete
+5130,City Hotel,TripAdvisor,2017-03-06,Séjour décevant. Perdu en pleine zone industrielle.,emplacement
+5131,City Hotel,TripAdvisor,2017-04-18,Le robinet de la baignoire ne délivrait qu'un filet d'eau froide. Le hammam était inaccessible pendant tout notre séjour.,equipements
+5132,Resort Hotel,Google,2017-04-03,Pas convaincus. Un tapis crasseux à l'entrée de la chambre.,proprete
+5133,City Hotel,Google,2017-05-27,Trois nuits en avril. Un seul fauteuil bancal pour quatre personnes. Une pièce exiguë où l'on se cognait partout. La baignoire avait un dépôt noirâtre impossible à ignorer. On ira ailleurs la prochaine fois.,chambre
+5134,City Hotel,Questionnaire,2017-04-25,Un marteau-piqueur dans la cour dès le lever du jour. On ira ailleurs la prochaine fois.,bruit
+5135,City Hotel,TripAdvisor,2017-03-30,"Retour mitigé, plutôt négatif. Le volet roulant électrique est resté bloqué. On ira ailleurs la prochaine fois.",equipements
+5136,Resort Hotel,Questionnaire,2017-03-17,"Arrivés à 15 h, la chambre n'était prête qu'à 18 h. La chambre payée en avance avait été attribuée à quelqu'un d'autre.",reservation
+5137,City Hotel,Google,2017-05-27,Trois nuits en avril. Le remboursement de l'acompte se fait toujours attendre. Ils avaient enregistré une nuit au lieu de trois. Le hammam était inaccessible pendant tout notre séjour.,reservation
+5138,City Hotel,Booking,2017-03-09,Escapade ratée. La baignoire avait un dépôt noirâtre impossible à ignorer. Des insectes morts sur le rebord de la fenêtre. Réponses expéditives et regard hautain au comptoir. Décevant.,proprete
+5139,City Hotel,Booking,2017-03-05,Pas convaincus. La bouilloire était hors d'usage. Le robinet de la baignoire ne délivrait qu'un filet d'eau froide. Le gérant a haussé les épaules face à notre plainte. Décevant.,equipements
+5140,Resort Hotel,Google,2017-03-22,Il y avait des traces douteuses sur la housse de couette.,proprete
+5141,Resort Hotel,Questionnaire,2017-05-18,Escapade ratée. Le climatiseur vrombissait sans arrêt.,bruit
+5142,City Hotel,Booking,2017-05-27,On percevait chaque conversation de la pièce d'à côté. Le ronflement du voisin traversait la cloison. Le verre à dents portait encore des marques de rouge à lèvres. On ira ailleurs la prochaine fois.,bruit
+5143,City Hotel,Google,2017-04-20,"Retour mitigé, plutôt négatif. Le ronflement du voisin traversait la cloison. Le DJ de la terrasse a joué jusqu'à 3 h. Les yaourts étaient périmés. Décevant.",bruit
+5144,City Hotel,Booking,2017-05-21,La literie était bosselée et trop molle. On ira ailleurs la prochaine fois.,chambre
+5145,City Hotel,Google,2017-04-16,Trois nuits en avril. Une pièce exiguë où l'on se cognait partout. La literie était bosselée et trop molle.,chambre
+5146,Resort Hotel,Google,2017-05-01,Pas convaincus. Ton méprisant quand on a posé une simple question. Réponses expéditives et regard hautain au comptoir.,accueil
+5147,City Hotel,Google,2017-04-06,Le climatiseur vrombissait sans arrêt. Le ronflement du voisin traversait la cloison.,bruit
+5148,City Hotel,Google,2017-05-16,On ne s'attendait pas à ça. La gare la plus proche est à 4 km. Décevant.,emplacement
+5149,Resort Hotel,Questionnaire,2017-05-06,"Escapade ratée. La note finale était salée pour ce qu'on a eu. Ce n'est pas donné, et ça ne les vaut pas. Pas pour nous.",prix
+5150,City Hotel,Booking,2017-05-12,Escapade ratée. La note finale était salée pour ce qu'on a eu.,prix
+5151,City Hotel,Google,2017-05-24,On ne s'attendait pas à ça. Les rues autour ne sont pas éclairées la nuit.,emplacement
+5152,Resort Hotel,Google,2017-03-07,"Le prélèvement a été fait en double sur notre compte. Arrivés à 15 h, la chambre n'était prête qu'à 18 h. Peut mieux faire.",reservation
+5153,City Hotel,Google,2017-03-04,Le prélèvement a été fait en double sur notre compte.,reservation
+5154,City Hotel,Google,2017-05-15,Séjour décevant. La gare la plus proche est à 4 km. Les rues autour ne sont pas éclairées la nuit. Des insectes morts sur le rebord de la fenêtre. Décevant.,emplacement
+5155,Resort Hotel,Booking,2017-05-15,"En déplacement pour le travail. Pas un bonjour, pas un sourire en trois jours. Aucune courtoisie de la part de l'équipe. Le tarif confirmé par mail n'a pas été appliqué. À revoir sérieusement.",accueil
+5156,City Hotel,TripAdvisor,2017-05-06,Séjour décevant. Le sèche-cheveux ne fonctionnait pas.,equipements
+5157,City Hotel,Google,2017-03-03,On s'est sentis arnaqués au moment de payer. Payer ce montant pour une telle prestation est indécent. Décevant.,prix
+5158,Resort Hotel,Questionnaire,2017-05-05,Escapade ratée. On a dû désinfecter nous-mêmes le lavabo avant de l'utiliser. Pas pour nous.,proprete
+5159,Resort Hotel,TripAdvisor,2017-04-01,Notre commande au bar-restaurant a été oubliée deux fois. Les viennoiseries étaient rassises. On ira ailleurs la prochaine fois.,restauration
+5160,City Hotel,Questionnaire,2017-03-12,Pas convaincus. On s'est sentis arnaqués au moment de payer. La note finale était salée pour ce qu'on a eu.,prix
+5161,Resort Hotel,Google,2017-05-18,"Retour mitigé, plutôt négatif. Pas un bonjour, pas un sourire en trois jours. Le gérant a haussé les épaules face à notre plainte. Un seul fauteuil bancal pour quatre personnes. À revoir sérieusement.",accueil
+5162,City Hotel,Booking,2017-03-28,Pas convaincus. Les plateaux n'étaient jamais regarnis le matin. Le café ressemblait à de l'eau chaude.,restauration
+5163,City Hotel,Booking,2017-05-04,En déplacement pour le travail. Les extras sont facturés à prix d'or. Des suppléments à chaque coin de couloir. Pas pour nous.,prix
+5164,Resort Hotel,TripAdvisor,2017-05-30,Trois nuits en avril. On a dû désinfecter nous-mêmes le lavabo avant de l'utiliser. Décevant.,proprete
+5165,City Hotel,TripAdvisor,2017-03-18,"Retour mitigé, plutôt négatif. Ils avaient enregistré une nuit au lieu de trois. La chambre payée en avance avait été attribuée à quelqu'un d'autre.",reservation
+5166,City Hotel,Google,2017-04-30,Pas convaincus. Le quartier est désert passé 20 h. Coincé entre une autoroute et un centre commercial.,emplacement
+5167,City Hotel,Booking,2017-04-25,En déplacement pour le travail. Les plateaux n'étaient jamais regarnis le matin. Les viennoiseries étaient rassises. Connexion internet inexistante dans tout l'établissement.,restauration
+5168,City Hotel,TripAdvisor,2017-03-21,Escapade ratée. Une pièce exiguë où l'on se cognait partout. La literie était bosselée et trop molle.,chambre
+5169,City Hotel,Google,2017-03-15,"Retour mitigé, plutôt négatif. Aucune lumière naturelle, on se serait cru dans une cave.",chambre
+5170,City Hotel,Questionnaire,2017-03-07,Pas convaincus. Réponses expéditives et regard hautain au comptoir.,accueil
+5171,Resort Hotel,Questionnaire,2017-04-16,Le robinet de la baignoire ne délivrait qu'un filet d'eau froide. Le radiateur restait glacé malgré nos réglages. Peut mieux faire.,equipements
+5172,Resort Hotel,Questionnaire,2017-04-03,Le menu enfant se limitait à des frites surgelées. Les yaourts étaient périmés. Il y avait des traces douteuses sur la housse de couette.,restauration
+5173,Resort Hotel,Questionnaire,2017-04-21,La gare la plus proche est à 4 km. Perdu en pleine zone industrielle. On nous a fait comprendre qu'on dérangeait.,emplacement
+5174,Resort Hotel,Google,2017-03-09,La confirmation reçue ne correspondait pas à ce qu'on avait réservé. Le prélèvement a été fait en double sur notre compte. La gare la plus proche est à 4 km.,reservation
+5175,City Hotel,Questionnaire,2017-05-05,En déplacement pour le travail. Les plateaux n'étaient jamais regarnis le matin. On ira ailleurs la prochaine fois.,restauration
+5176,Resort Hotel,Questionnaire,2017-05-22,Le menu enfant se limitait à des frites surgelées. Notre commande au bar-restaurant a été oubliée deux fois. À revoir sérieusement.,restauration
+5177,City Hotel,Google,2017-05-23,En déplacement pour le travail. Le carrelage de la douche était gluant. La baignoire avait un dépôt noirâtre impossible à ignorer. Le gérant a haussé les épaules face à notre plainte.,proprete
+5178,Resort Hotel,Questionnaire,2017-03-28,On ne s'attendait pas à ça. Connexion internet inexistante dans tout l'établissement.,equipements
+5179,City Hotel,TripAdvisor,2017-03-10,On ne s'attendait pas à ça. Le remboursement de l'acompte se fait toujours attendre. Le tarif confirmé par mail n'a pas été appliqué. Peut mieux faire.,reservation
+5180,Resort Hotel,Booking,2017-04-09,Escapade ratée. Perdu en pleine zone industrielle.,emplacement

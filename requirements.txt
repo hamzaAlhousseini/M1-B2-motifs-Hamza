@@ -1,0 +1,19 @@
+# PyTorch (version CPU) s'installe à part, AVANT ce fichier :
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu --extra-index-url https://pypi.org/simple
+
+# Données et modèles classiques
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+joblib==1.5.1
+
+# Embeddings (modèle pré-entraîné Hugging Face)
+sentence-transformers==3.3.1
+transformers==4.46.3
+
+# Réseau de neurones : Keras 3, avec PyTorch comme moteur (pas besoin de TensorFlow)
+keras==3.7.0
+
+# Notebooks et graphiques
+ipykernel==6.29.5
+matplotlib==3.9.2
